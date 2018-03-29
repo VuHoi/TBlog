@@ -9,7 +9,7 @@ namespace Pioneer.Blog
         {
             BuildWebHost(args).Run();
         }
-
+        // host
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
