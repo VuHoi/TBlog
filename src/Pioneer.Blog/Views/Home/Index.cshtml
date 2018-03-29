@@ -1,0 +1,57 @@
+﻿@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    Layout = "~/Views/Home/_Template.cshtml";
+    ViewBag.Title = "Tin tức";
+}
+<input type="hidden" value="d9197f1e-e49b-4d41-9851-440cfa63abb7">
+<div class="hero-gradient hg-large home-hero" style="background-image: url(/images/hero-home.jpg)">
+  <div class="row hero-gradient-content">
+    <div class="large-12 column">
+      <section class="home-hero-content">
+        <a href="" title="Chad Ramos Twitter" target="_blank" class="me">
+          <img src="/images/me.jpg" alt="Chad Ramos" class="circle" />
+        </a>
+        <div class="bio">
+            <p>Thành công không phải là cuối cùng, thất bại không phải là chết người: lòng can đảm đi tiếp mới quan trọng.</p>
+          <ul class="menu">
+            <li>
+              <a href="" title="Github" class="icon">
+                <i class="fa fa-github"></i>
+              </a>
+            </li>
+            <li>
+              <a href="" title="npm"  class="icon">
+                <svg version="1.1" xmlns="http://www.w3.org/2000/svg"  width="45" height="45" viewBox="0 6 32 32">
+                  <path d="M0.32 15.406v5.248h8.736v1.76h6.976v-1.76h15.649v-10.495h-31.36v5.248zM9.055 15.406v3.488h-1.76v-5.216h-1.697v5.216h-3.582v-6.976h7.039v3.488zM17.779 15.412l-0.019 3.488-3.425-0.012v1.766h-3.582v-8.736h7.039l-0.012 3.494zM29.983 15.406v3.488h-1.76v-5.216h-1.76v5.248l-1.76-0.038v-5.21h-1.697v5.216h-3.519v-6.976h10.495v3.488zM14.335 15.406v1.728h1.634v-3.457h-1.634v1.728z"></path>
+                </svg>
+              </a>
+            </li>
+            <li>
+              <a href="" title="Twitter"  class="icon">
+                <i class="fa fa-twitter"></i>
+              </a>
+            </li>
+            <li>
+              <a href="" title="Trello"  class="icon">
+                <i class="fa fa-trello"></i>
+              </a>
+            </li>
+            <li>
+              <a href="" title="Facebook" class="icon">
+                <i class="fa fa-facebook"></i>
+              </a>
+            </li>
+            <li>
+              <a href="" title="Code Rss Feed"  class="icon">
+                <i class="fa fa-rss"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </div>
+  </div>
+</div>
+@Html.Partial("_HomeLatestPosts", (List<Post>)ViewBag.LatestPosts)
+@Html.Partial("_HomeGreatestPosts")
+@Html.Partial("_HomeSignUp")

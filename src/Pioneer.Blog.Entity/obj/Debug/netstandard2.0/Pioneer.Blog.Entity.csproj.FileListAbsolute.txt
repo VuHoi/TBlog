@@ -1,0 +1,12 @@
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\bin\Debug\netstandard2.0\Pioneer.Blog.Entity.deps.json
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\bin\Debug\netstandard2.0\Pioneer.Blog.Entity.dll
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\bin\Debug\netstandard2.0\Pioneer.Blog.Entity.pdb
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\bin\Debug\netstandard2.0\Pioneer.Blog.Model.dll
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\bin\Debug\netstandard2.0\Pioneer.Blog.Model.pdb
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\obj\Debug\netstandard2.0\Pioneer.Blog.Entity.csprojResolveAssemblyReference.cache
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\obj\Debug\netstandard2.0\Pioneer.Blog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\obj\Debug\netstandard2.0\Pioneer.Blog.Entity.AssemblyInfoInputs.cache
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\obj\Debug\netstandard2.0\Pioneer.Blog.Entity.AssemblyInfo.cs
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\obj\Debug\netstandard2.0\Pioneer.Blog.Entity.csproj.CopyComplete
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\obj\Debug\netstandard2.0\Pioneer.Blog.Entity.dll
+C:\Users\VŨKHẮCHỢI\Documents\GitHub\pioneer-blog\src\Pioneer.Blog.Entity\obj\Debug\netstandard2.0\Pioneer.Blog.Entity.pdb
